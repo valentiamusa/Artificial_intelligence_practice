@@ -1,23 +1,4 @@
-# Virtual environments
-venv/
-.venv/
-
-# Python cache and compiled files
 __pycache__/
 *.pyc
-*.pyo
-*.pyd
-
-# IDE and OS files
-.vscode/
-.idea/
-.DS_Store
-Thumbs.db
-
-# Logs, temporary files
+.venv/
 *.log
-events_log.txt
-
-# Model weights (optional if you download them locally)
-*.pt
-*.onnx
