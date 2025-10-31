@@ -1,0 +1,901 @@
+Sales_Date,Product_Name,Category,Quantity_Sold,Price,Total_Sales
+2025-01-01,Shampoo,Personal Care,7,8.17,57.18
+2025-01-01,Toothpaste,Personal Care,15,7.59,113.82
+2025-01-01,Soap,Personal Care,7,5.01,35.09
+2025-01-01,Lotion,Personal Care,11,5.13,56.47
+2025-01-01,Chips,Food,4,2.29,9.14
+2025-01-01,Soda,Food,3,1.19,3.56
+2025-01-01,Cereal,Food,2,7.5,15.0
+2025-01-01,Milk,Food,6,1.01,6.04
+2025-01-01,Bread,Food,1,3.74,3.74
+2025-01-01,Candy,Food,12,1.21,14.49
+2025-01-02,Shampoo,Personal Care,10,1.42,14.2
+2025-01-02,Toothpaste,Personal Care,16,3.09,49.52
+2025-01-02,Soap,Personal Care,15,6.57,98.48
+2025-01-02,Lotion,Personal Care,12,5.63,67.54
+2025-01-02,Chips,Food,3,8.74,26.22
+2025-01-02,Soda,Food,7,2.53,17.74
+2025-01-02,Cereal,Food,7,1.12,7.84
+2025-01-02,Milk,Food,14,8.28,115.86
+2025-01-02,Bread,Food,9,1.14,10.29
+2025-01-02,Candy,Food,2,7.16,14.32
+2025-01-03,Shampoo,Personal Care,15,7.15,107.24
+2025-01-03,Toothpaste,Personal Care,12,5.46,65.48
+2025-01-03,Soap,Personal Care,15,2.56,38.4
+2025-01-03,Lotion,Personal Care,17,3.33,56.59
+2025-01-03,Chips,Food,8,7.8,62.39
+2025-01-03,Soda,Food,6,2.87,17.23
+2025-01-03,Cereal,Food,4,2.66,10.65
+2025-01-03,Milk,Food,18,7.98,143.57
+2025-01-03,Bread,Food,2,4.56,9.11
+2025-01-03,Candy,Food,4,6.38,25.52
+2025-01-04,Shampoo,Personal Care,16,3.94,63.02
+2025-01-04,Toothpaste,Personal Care,14,2.76,38.69
+2025-01-04,Soap,Personal Care,8,8.6,68.81
+2025-01-04,Lotion,Personal Care,13,3.44,44.75
+2025-01-04,Chips,Food,13,2.27,29.49
+2025-01-04,Soda,Food,15,2.49,37.31
+2025-01-04,Cereal,Food,7,4.81,33.67
+2025-01-04,Milk,Food,1,2.79,2.79
+2025-01-04,Bread,Food,11,2.79,30.69
+2025-01-04,Candy,Food,8,7.56,60.49
+2025-01-05,Shampoo,Personal Care,1,6.45,6.45
+2025-01-05,Toothpaste,Personal Care,10,4.23,42.26
+2025-01-05,Soap,Personal Care,9,9.23,83.11
+2025-01-05,Lotion,Personal Care,9,6.61,59.49
+2025-01-05,Chips,Food,2,1.86,3.72
+2025-01-05,Soda,Food,5,7.57,37.83
+2025-01-05,Cereal,Food,8,3.47,27.78
+2025-01-05,Milk,Food,3,5.25,15.75
+2025-01-05,Bread,Food,5,9.75,48.73
+2025-01-05,Candy,Food,3,7.85,23.54
+2025-01-06,Shampoo,Personal Care,14,5.44,76.22
+2025-01-06,Toothpaste,Personal Care,9,7.4,66.56
+2025-01-06,Soap,Personal Care,10,4.95,49.54
+2025-01-06,Lotion,Personal Care,19,1.28,24.37
+2025-01-06,Chips,Food,7,5.28,36.95
+2025-01-06,Soda,Food,4,9.17,36.67
+2025-01-06,Cereal,Food,7,4.69,32.85
+2025-01-06,Milk,Food,11,2.83,31.1
+2025-01-06,Bread,Food,13,1.69,22.01
+2025-01-06,Candy,Food,19,2.45,46.57
+2025-01-07,Shampoo,Personal Care,2,6.62,13.24
+2025-01-07,Toothpaste,Personal Care,6,5.11,30.65
+2025-01-07,Soap,Personal Care,12,2.68,32.15
+2025-01-07,Lotion,Personal Care,11,3.92,43.11
+2025-01-07,Chips,Food,7,9.16,64.13
+2025-01-07,Soda,Food,1,3.05,3.05
+2025-01-07,Cereal,Food,13,8.75,113.71
+2025-01-07,Milk,Food,7,2.48,17.37
+2025-01-07,Bread,Food,9,5.36,48.27
+2025-01-07,Candy,Food,1,2.08,2.08
+2025-01-08,Shampoo,Personal Care,12,3.2,38.37
+2025-01-08,Toothpaste,Personal Care,9,4.63,41.71
+2025-01-08,Soap,Personal Care,17,3.29,55.85
+2025-01-08,Lotion,Personal Care,12,3.27,39.19
+2025-01-08,Chips,Food,2,7.41,14.82
+2025-01-08,Soda,Food,5,3.56,17.82
+2025-01-08,Cereal,Food,17,3.4,57.82
+2025-01-08,Milk,Food,2,5.52,11.05
+2025-01-08,Bread,Food,5,4.11,20.53
+2025-01-08,Candy,Food,1,3.16,3.16
+2025-01-09,Shampoo,Personal Care,2,5.78,11.56
+2025-01-09,Toothpaste,Personal Care,6,3.18,19.07
+2025-01-09,Soap,Personal Care,4,1.73,6.91
+2025-01-09,Lotion,Personal Care,17,7.55,128.42
+2025-01-09,Chips,Food,5,6.69,33.45
+2025-01-09,Soda,Food,6,4.59,27.54
+2025-01-09,Cereal,Food,16,8.19,130.96
+2025-01-09,Milk,Food,9,3.89,34.98
+2025-01-09,Bread,Food,6,7.26,43.57
+2025-01-09,Candy,Food,3,6.32,18.95
+2025-01-10,Shampoo,Personal Care,4,1.15,4.6
+2025-01-10,Toothpaste,Personal Care,3,8.29,24.86
+2025-01-10,Soap,Personal Care,7,2.57,17.99
+2025-01-10,Lotion,Personal Care,1,4.58,4.58
+2025-01-10,Chips,Food,7,9.43,66.01
+2025-01-10,Soda,Food,1,7.08,7.08
+2025-01-10,Cereal,Food,18,9.32,167.8
+2025-01-10,Milk,Food,10,3.32,33.21
+2025-01-10,Bread,Food,16,8.35,133.68
+2025-01-10,Candy,Food,17,3.18,54.0
+2025-01-11,Shampoo,Personal Care,16,9.69,155.02
+2025-01-11,Toothpaste,Personal Care,5,9.1,45.52
+2025-01-11,Soap,Personal Care,9,3.51,31.59
+2025-01-11,Lotion,Personal Care,19,7.53,143.14
+2025-01-11,Chips,Food,3,8.71,26.12
+2025-01-11,Soda,Food,1,6.78,6.78
+2025-01-11,Cereal,Food,11,9.42,103.63
+2025-01-11,Milk,Food,4,9.09,36.35
+2025-01-11,Bread,Food,3,4.35,13.05
+2025-01-11,Candy,Food,3,9.76,29.29
+2025-01-12,Shampoo,Personal Care,18,2.45,44.05
+2025-01-12,Toothpaste,Personal Care,18,5.37,96.67
+2025-01-12,Soap,Personal Care,3,6.87,20.6
+2025-01-12,Lotion,Personal Care,9,2.58,23.25
+2025-01-12,Chips,Food,4,3.14,12.54
+2025-01-12,Soda,Food,16,7.72,123.49
+2025-01-12,Cereal,Food,8,8.64,69.14
+2025-01-12,Milk,Food,17,3.77,64.13
+2025-01-12,Bread,Food,16,1.84,29.49
+2025-01-12,Candy,Food,19,6.73,127.81
+2025-01-13,Shampoo,Personal Care,14,6.31,88.32
+2025-01-13,Toothpaste,Personal Care,6,4.54,27.23
+2025-01-13,Soap,Personal Care,8,6.68,53.44
+2025-01-13,Lotion,Personal Care,2,4.15,8.3
+2025-01-13,Chips,Food,1,6.19,6.19
+2025-01-13,Soda,Food,1,2.76,2.76
+2025-01-13,Cereal,Food,16,3.53,56.43
+2025-01-13,Milk,Food,3,7.92,23.75
+2025-01-13,Bread,Food,17,9.95,169.17
+2025-01-13,Candy,Food,14,9.23,129.27
+2025-01-14,Shampoo,Personal Care,3,7.73,23.19
+2025-01-14,Toothpaste,Personal Care,5,9.35,46.77
+2025-01-14,Soap,Personal Care,17,5.97,101.57
+2025-01-14,Lotion,Personal Care,3,9.82,29.47
+2025-01-14,Chips,Food,1,3.85,3.85
+2025-01-14,Soda,Food,18,6.01,108.2
+2025-01-14,Cereal,Food,3,6.13,18.39
+2025-01-14,Milk,Food,18,6.54,117.63
+2025-01-14,Bread,Food,2,3.29,6.57
+2025-01-14,Candy,Food,10,8.9,88.96
+2025-01-15,Shampoo,Personal Care,17,8.64,146.85
+2025-01-15,Toothpaste,Personal Care,9,7.32,65.9
+2025-01-15,Soap,Personal Care,16,5.98,95.61
+2025-01-15,Lotion,Personal Care,10,8.28,82.84
+2025-01-15,Chips,Food,3,3.31,9.92
+2025-01-15,Soda,Food,13,1.73,22.55
+2025-01-15,Cereal,Food,7,5.51,38.6
+2025-01-15,Milk,Food,13,2.75,35.73
+2025-01-15,Bread,Food,8,7.32,58.54
+2025-01-15,Candy,Food,16,1.46,23.31
+2025-01-16,Shampoo,Personal Care,19,4.04,76.8
+2025-01-16,Toothpaste,Personal Care,2,1.85,3.69
+2025-01-16,Soap,Personal Care,19,5.19,98.62
+2025-01-16,Lotion,Personal Care,17,1.34,22.71
+2025-01-16,Chips,Food,6,3.73,22.38
+2025-01-16,Soda,Food,11,2.14,23.58
+2025-01-16,Cereal,Food,1,8.45,8.45
+2025-01-16,Milk,Food,12,9.69,116.25
+2025-01-16,Bread,Food,7,1.77,12.38
+2025-01-16,Candy,Food,13,2.75,35.74
+2025-01-17,Shampoo,Personal Care,15,7.3,109.43
+2025-01-17,Toothpaste,Personal Care,8,7.53,60.28
+2025-01-17,Soap,Personal Care,13,9.73,126.44
+2025-01-17,Lotion,Personal Care,10,3.91,39.07
+2025-01-17,Chips,Food,17,4.59,78.02
+2025-01-17,Soda,Food,19,4.95,94.06
+2025-01-17,Cereal,Food,5,2.66,13.3
+2025-01-17,Milk,Food,9,7.2,64.77
+2025-01-17,Bread,Food,1,2.56,2.56
+2025-01-17,Candy,Food,1,4.98,4.98
+2025-01-18,Shampoo,Personal Care,16,2.65,42.33
+2025-01-18,Toothpaste,Personal Care,13,3.52,45.75
+2025-01-18,Soap,Personal Care,16,5.65,90.4
+2025-01-18,Lotion,Personal Care,5,6.51,32.53
+2025-01-18,Chips,Food,3,3.23,9.69
+2025-01-18,Soda,Food,16,2.43,38.85
+2025-01-18,Cereal,Food,14,1.83,25.57
+2025-01-18,Milk,Food,15,1.37,20.5
+2025-01-18,Bread,Food,14,9.82,137.42
+2025-01-18,Candy,Food,5,5.27,26.34
+2025-01-19,Shampoo,Personal Care,16,8.26,132.2
+2025-01-19,Toothpaste,Personal Care,4,2.56,10.24
+2025-01-19,Soap,Personal Care,5,4.59,22.93
+2025-01-19,Lotion,Personal Care,10,9.54,95.42
+2025-01-19,Chips,Food,4,1.41,5.63
+2025-01-19,Soda,Food,10,6.63,66.33
+2025-01-19,Cereal,Food,1,5.85,5.85
+2025-01-19,Milk,Food,13,2.47,32.06
+2025-01-19,Bread,Food,16,6.78,108.51
+2025-01-19,Candy,Food,17,8.8,149.68
+2025-01-20,Shampoo,Personal Care,12,4.49,53.92
+2025-01-20,Toothpaste,Personal Care,1,5.12,5.12
+2025-01-20,Soap,Personal Care,19,8.39,159.33
+2025-01-20,Lotion,Personal Care,12,4.47,53.7
+2025-01-20,Chips,Food,1,6.86,6.86
+2025-01-20,Soda,Food,11,2.76,30.38
+2025-01-20,Cereal,Food,13,2.93,38.11
+2025-01-20,Milk,Food,14,1.16,16.3
+2025-01-20,Bread,Food,19,6.56,124.72
+2025-01-20,Candy,Food,17,6.9,117.33
+2025-01-21,Shampoo,Personal Care,10,1.21,12.09
+2025-01-21,Toothpaste,Personal Care,2,3.35,6.69
+2025-01-21,Soap,Personal Care,7,2.06,14.44
+2025-01-21,Lotion,Personal Care,18,6.66,119.89
+2025-01-21,Chips,Food,4,4.76,19.05
+2025-01-21,Soda,Food,4,2.6,10.39
+2025-01-21,Cereal,Food,9,6.12,55.05
+2025-01-21,Milk,Food,3,9.91,29.74
+2025-01-21,Bread,Food,16,2.15,34.39
+2025-01-21,Candy,Food,17,7.99,135.79
+2025-01-22,Shampoo,Personal Care,5,3.15,15.74
+2025-01-22,Toothpaste,Personal Care,13,7.66,99.57
+2025-01-22,Soap,Personal Care,3,1.93,5.78
+2025-01-22,Lotion,Personal Care,17,5.81,98.75
+2025-01-22,Chips,Food,16,4.51,72.11
+2025-01-22,Soda,Food,13,9.06,117.78
+2025-01-22,Cereal,Food,17,1.48,25.18
+2025-01-22,Milk,Food,9,8.62,77.62
+2025-01-22,Bread,Food,9,3.87,34.86
+2025-01-22,Candy,Food,14,7.09,99.27
+2025-01-23,Shampoo,Personal Care,19,5.44,103.31
+2025-01-23,Toothpaste,Personal Care,16,5.04,80.58
+2025-01-23,Soap,Personal Care,3,6.42,19.27
+2025-01-23,Lotion,Personal Care,4,9.52,38.06
+2025-01-23,Chips,Food,16,8.11,129.71
+2025-01-23,Soda,Food,13,9.38,121.92
+2025-01-23,Cereal,Food,7,9.96,69.74
+2025-01-23,Milk,Food,5,7.63,38.17
+2025-01-23,Bread,Food,11,7.35,80.88
+2025-01-23,Candy,Food,15,2.29,34.3
+2025-01-24,Shampoo,Personal Care,10,8.53,85.33
+2025-01-24,Toothpaste,Personal Care,17,1.91,32.47
+2025-01-24,Soap,Personal Care,7,4.83,33.84
+2025-01-24,Lotion,Personal Care,8,1.65,13.24
+2025-01-24,Chips,Food,18,9.03,162.49
+2025-01-24,Soda,Food,2,1.73,3.46
+2025-01-24,Cereal,Food,5,3.1,15.5
+2025-01-24,Milk,Food,8,4.37,34.95
+2025-01-24,Bread,Food,1,8.92,8.92
+2025-01-24,Candy,Food,17,9.53,161.93
+2025-01-25,Shampoo,Personal Care,13,7.78,101.15
+2025-01-25,Toothpaste,Personal Care,6,7.37,44.24
+2025-01-25,Soap,Personal Care,19,7.99,151.89
+2025-01-25,Lotion,Personal Care,7,4.82,33.73
+2025-01-25,Chips,Food,19,2.0,38.01
+2025-01-25,Soda,Food,3,3.28,9.85
+2025-01-25,Cereal,Food,18,5.22,93.92
+2025-01-25,Milk,Food,8,2.06,16.46
+2025-01-25,Bread,Food,9,7.7,69.28
+2025-01-25,Candy,Food,3,6.25,18.75
+2025-01-26,Shampoo,Personal Care,17,1.75,29.68
+2025-01-26,Toothpaste,Personal Care,1,3.01,3.01
+2025-01-26,Soap,Personal Care,6,8.22,49.31
+2025-01-26,Lotion,Personal Care,13,9.73,126.48
+2025-01-26,Chips,Food,15,9.02,135.3
+2025-01-26,Soda,Food,11,9.27,101.99
+2025-01-26,Cereal,Food,4,5.98,23.94
+2025-01-26,Milk,Food,18,2.5,44.93
+2025-01-26,Bread,Food,17,7.26,123.45
+2025-01-26,Candy,Food,1,6.65,6.65
+2025-01-27,Shampoo,Personal Care,3,9.11,27.33
+2025-01-27,Toothpaste,Personal Care,11,3.53,38.82
+2025-01-27,Soap,Personal Care,16,9.01,144.2
+2025-01-27,Lotion,Personal Care,12,1.96,23.53
+2025-01-27,Chips,Food,8,2.53,20.22
+2025-01-27,Soda,Food,4,5.17,20.69
+2025-01-27,Cereal,Food,18,3.39,61.08
+2025-01-27,Milk,Food,5,9.77,48.85
+2025-01-27,Bread,Food,17,3.52,59.8
+2025-01-27,Candy,Food,13,7.16,93.11
+2025-01-28,Shampoo,Personal Care,13,9.2,119.58
+2025-01-28,Toothpaste,Personal Care,6,9.55,57.29
+2025-01-28,Soap,Personal Care,5,6.52,32.6
+2025-01-28,Lotion,Personal Care,2,1.74,3.49
+2025-01-28,Chips,Food,18,5.96,107.36
+2025-01-28,Soda,Food,5,1.24,6.19
+2025-01-28,Cereal,Food,1,8.0,8.0
+2025-01-28,Milk,Food,18,9.89,177.94
+2025-01-28,Bread,Food,17,4.39,74.64
+2025-01-28,Candy,Food,17,8.54,145.26
+2025-01-29,Shampoo,Personal Care,2,1.33,2.66
+2025-01-29,Toothpaste,Personal Care,1,1.12,1.12
+2025-01-29,Soap,Personal Care,6,7.23,43.35
+2025-01-29,Lotion,Personal Care,5,10.0,49.99
+2025-01-29,Chips,Food,6,9.22,55.31
+2025-01-29,Soda,Food,5,7.54,37.68
+2025-01-29,Cereal,Food,10,8.65,86.47
+2025-01-29,Milk,Food,17,3.17,53.89
+2025-01-29,Bread,Food,9,2.16,19.46
+2025-01-29,Candy,Food,19,3.47,65.98
+2025-01-30,Shampoo,Personal Care,4,3.06,12.23
+2025-01-30,Toothpaste,Personal Care,17,7.81,132.82
+2025-01-30,Soap,Personal Care,2,4.22,8.45
+2025-01-30,Lotion,Personal Care,8,1.2,9.6
+2025-01-30,Chips,Food,2,5.29,10.57
+2025-01-30,Soda,Food,3,5.68,17.04
+2025-01-30,Cereal,Food,12,8.35,100.17
+2025-01-30,Milk,Food,12,6.05,72.58
+2025-01-30,Bread,Food,17,2.21,37.5
+2025-01-30,Candy,Food,15,4.78,71.77
+2025-01-31,Shampoo,Personal Care,5,6.58,32.91
+2025-01-31,Toothpaste,Personal Care,2,8.25,16.49
+2025-01-31,Soap,Personal Care,7,2.23,15.59
+2025-01-31,Lotion,Personal Care,2,4.16,8.31
+2025-01-31,Chips,Food,2,6.73,13.46
+2025-01-31,Soda,Food,15,4.94,74.06
+2025-01-31,Cereal,Food,2,4.13,8.27
+2025-01-31,Milk,Food,6,5.06,30.35
+2025-01-31,Bread,Food,15,4.57,68.53
+2025-01-31,Candy,Food,10,8.76,87.61
+2025-02-01,Shampoo,Personal Care,5,8.17,40.84
+2025-02-01,Toothpaste,Personal Care,10,9.34,93.39
+2025-02-01,Soap,Personal Care,10,7.92,79.2
+2025-02-01,Lotion,Personal Care,5,9.82,49.1
+2025-02-01,Chips,Food,2,3.96,7.92
+2025-02-01,Soda,Food,11,6.22,68.39
+2025-02-01,Cereal,Food,11,1.68,18.51
+2025-02-01,Milk,Food,16,2.37,37.87
+2025-02-01,Bread,Food,16,6.77,108.29
+2025-02-01,Candy,Food,8,7.27,58.15
+2025-02-02,Shampoo,Personal Care,3,8.87,26.61
+2025-02-02,Toothpaste,Personal Care,18,6.42,115.51
+2025-02-02,Soap,Personal Care,19,1.37,25.99
+2025-02-02,Lotion,Personal Care,5,4.11,20.53
+2025-02-02,Chips,Food,10,2.59,25.93
+2025-02-02,Soda,Food,6,2.09,12.51
+2025-02-02,Cereal,Food,9,4.2,37.84
+2025-02-02,Milk,Food,14,4.28,59.9
+2025-02-02,Bread,Food,14,3.97,55.59
+2025-02-02,Candy,Food,9,1.83,16.48
+2025-02-03,Shampoo,Personal Care,15,6.65,99.77
+2025-02-03,Toothpaste,Personal Care,15,5.6,84.07
+2025-02-03,Soap,Personal Care,11,9.29,102.17
+2025-02-03,Lotion,Personal Care,17,3.49,59.36
+2025-02-03,Chips,Food,1,1.76,1.76
+2025-02-03,Soda,Food,3,2.66,7.98
+2025-02-03,Cereal,Food,15,5.83,87.44
+2025-02-03,Milk,Food,14,6.56,91.9
+2025-02-03,Bread,Food,14,5.16,72.28
+2025-02-03,Candy,Food,13,1.56,20.29
+2025-02-04,Shampoo,Personal Care,19,7.42,140.98
+2025-02-04,Toothpaste,Personal Care,15,8.6,129.0
+2025-02-04,Soap,Personal Care,11,5.79,63.68
+2025-02-04,Lotion,Personal Care,13,8.8,114.46
+2025-02-04,Chips,Food,6,5.79,34.76
+2025-02-04,Soda,Food,15,1.94,29.16
+2025-02-04,Cereal,Food,5,2.64,13.2
+2025-02-04,Milk,Food,7,3.9,27.29
+2025-02-04,Bread,Food,7,1.8,12.62
+2025-02-04,Candy,Food,12,3.1,37.19
+2025-02-05,Shampoo,Personal Care,13,6.34,82.45
+2025-02-05,Toothpaste,Personal Care,4,4.2,16.78
+2025-02-05,Soap,Personal Care,9,5.49,49.37
+2025-02-05,Lotion,Personal Care,15,6.26,93.87
+2025-02-05,Chips,Food,2,6.02,12.04
+2025-02-05,Soda,Food,8,4.88,39.08
+2025-02-05,Cereal,Food,19,4.41,83.77
+2025-02-05,Milk,Food,5,4.27,21.34
+2025-02-05,Bread,Food,2,3.2,6.4
+2025-02-05,Candy,Food,13,3.97,51.65
+2025-02-06,Shampoo,Personal Care,1,1.07,1.07
+2025-02-06,Toothpaste,Personal Care,6,4.29,25.73
+2025-02-06,Soap,Personal Care,16,2.45,39.14
+2025-02-06,Lotion,Personal Care,11,1.79,19.7
+2025-02-06,Chips,Food,9,1.72,15.5
+2025-02-06,Soda,Food,19,1.16,22.12
+2025-02-06,Cereal,Food,5,9.84,49.21
+2025-02-06,Milk,Food,6,4.58,27.48
+2025-02-06,Bread,Food,11,8.79,96.69
+2025-02-06,Candy,Food,6,9.78,58.65
+2025-02-07,Shampoo,Personal Care,6,7.02,42.11
+2025-02-07,Toothpaste,Personal Care,2,6.01,12.02
+2025-02-07,Soap,Personal Care,8,5.29,42.32
+2025-02-07,Lotion,Personal Care,13,7.93,103.03
+2025-02-07,Chips,Food,6,9.71,58.27
+2025-02-07,Soda,Food,4,4.83,19.32
+2025-02-07,Cereal,Food,1,7.63,7.63
+2025-02-07,Milk,Food,12,2.03,24.4
+2025-02-07,Bread,Food,14,3.6,50.37
+2025-02-07,Candy,Food,5,5.55,27.77
+2025-02-08,Shampoo,Personal Care,4,3.89,15.54
+2025-02-08,Toothpaste,Personal Care,3,1.47,4.4
+2025-02-08,Soap,Personal Care,18,5.09,91.59
+2025-02-08,Lotion,Personal Care,5,1.57,7.85
+2025-02-08,Chips,Food,12,2.82,33.79
+2025-02-08,Soda,Food,8,8.29,66.31
+2025-02-08,Cereal,Food,1,2.25,2.25
+2025-02-08,Milk,Food,9,7.84,70.58
+2025-02-08,Bread,Food,11,5.26,57.84
+2025-02-08,Candy,Food,6,4.71,28.24
+2025-02-09,Shampoo,Personal Care,17,8.66,147.16
+2025-02-09,Toothpaste,Personal Care,12,4.68,56.12
+2025-02-09,Soap,Personal Care,11,9.45,103.9
+2025-02-09,Lotion,Personal Care,12,4.41,52.96
+2025-02-09,Chips,Food,1,7.67,7.67
+2025-02-09,Soda,Food,8,8.45,67.61
+2025-02-09,Cereal,Food,5,2.81,14.07
+2025-02-09,Milk,Food,3,2.48,7.44
+2025-02-09,Bread,Food,5,3.12,15.61
+2025-02-09,Candy,Food,14,5.71,79.91
+2025-02-10,Shampoo,Personal Care,4,3.85,15.38
+2025-02-10,Toothpaste,Personal Care,10,4.53,45.32
+2025-02-10,Soap,Personal Care,8,5.07,40.54
+2025-02-10,Lotion,Personal Care,8,4.39,35.14
+2025-02-10,Chips,Food,19,6.62,125.72
+2025-02-10,Soda,Food,1,7.73,7.73
+2025-02-10,Cereal,Food,15,6.2,92.96
+2025-02-10,Milk,Food,17,9.1,154.63
+2025-02-10,Bread,Food,2,5.89,11.78
+2025-02-10,Candy,Food,8,3.06,24.49
+2025-02-11,Shampoo,Personal Care,7,2.05,14.36
+2025-02-11,Toothpaste,Personal Care,6,4.0,23.97
+2025-02-11,Soap,Personal Care,19,4.01,76.27
+2025-02-11,Lotion,Personal Care,15,8.91,133.61
+2025-02-11,Chips,Food,1,5.8,5.8
+2025-02-11,Soda,Food,7,6.16,43.11
+2025-02-11,Cereal,Food,6,7.77,46.63
+2025-02-11,Milk,Food,5,8.01,40.04
+2025-02-11,Bread,Food,1,1.3,1.3
+2025-02-11,Candy,Food,2,7.86,15.72
+2025-02-12,Shampoo,Personal Care,10,4.08,40.79
+2025-02-12,Toothpaste,Personal Care,6,5.83,34.97
+2025-02-12,Soap,Personal Care,15,8.62,129.27
+2025-02-12,Lotion,Personal Care,15,8.18,122.63
+2025-02-12,Chips,Food,5,5.38,26.89
+2025-02-12,Soda,Food,4,7.5,30.0
+2025-02-12,Cereal,Food,2,1.11,2.22
+2025-02-12,Milk,Food,19,7.25,137.67
+2025-02-12,Bread,Food,4,7.45,29.78
+2025-02-12,Candy,Food,5,8.44,42.21
+2025-02-13,Shampoo,Personal Care,10,4.08,40.83
+2025-02-13,Toothpaste,Personal Care,6,4.61,27.65
+2025-02-13,Soap,Personal Care,15,3.59,53.87
+2025-02-13,Lotion,Personal Care,11,2.38,26.18
+2025-02-13,Chips,Food,13,2.25,29.28
+2025-02-13,Soda,Food,18,6.5,117.06
+2025-02-13,Cereal,Food,15,7.53,113.02
+2025-02-13,Milk,Food,11,9.39,103.28
+2025-02-13,Bread,Food,4,9.27,37.08
+2025-02-13,Candy,Food,5,9.3,46.51
+2025-02-14,Shampoo,Personal Care,8,6.86,54.9
+2025-02-14,Toothpaste,Personal Care,17,6.19,105.17
+2025-02-14,Soap,Personal Care,9,4.82,43.35
+2025-02-14,Lotion,Personal Care,14,9.41,131.73
+2025-02-14,Chips,Food,11,5.06,55.63
+2025-02-14,Soda,Food,14,3.12,43.72
+2025-02-14,Cereal,Food,14,2.68,37.48
+2025-02-14,Milk,Food,1,8.83,8.83
+2025-02-14,Bread,Food,19,6.32,120.11
+2025-02-14,Candy,Food,15,1.49,22.39
+2025-02-15,Shampoo,Personal Care,9,2.85,25.65
+2025-02-15,Toothpaste,Personal Care,9,2.03,18.26
+2025-02-15,Soap,Personal Care,11,9.31,102.37
+2025-02-15,Lotion,Personal Care,7,4.12,28.86
+2025-02-15,Chips,Food,2,9.27,18.53
+2025-02-15,Soda,Food,11,1.3,14.25
+2025-02-15,Cereal,Food,19,3.23,61.45
+2025-02-15,Milk,Food,7,2.49,17.43
+2025-02-15,Bread,Food,1,4.26,4.26
+2025-02-15,Candy,Food,11,6.69,73.59
+2025-02-16,Shampoo,Personal Care,18,6.97,125.49
+2025-02-16,Toothpaste,Personal Care,7,9.78,68.46
+2025-02-16,Soap,Personal Care,9,2.34,21.04
+2025-02-16,Lotion,Personal Care,8,5.52,44.16
+2025-02-16,Chips,Food,1,3.79,3.79
+2025-02-16,Soda,Food,19,2.89,54.89
+2025-02-16,Cereal,Food,19,4.14,78.75
+2025-02-16,Milk,Food,17,1.33,22.59
+2025-02-16,Bread,Food,16,6.08,97.34
+2025-02-16,Candy,Food,18,3.65,65.64
+2025-02-17,Shampoo,Personal Care,19,5.08,96.51
+2025-02-17,Toothpaste,Personal Care,2,5.81,11.62
+2025-02-17,Soap,Personal Care,17,4.61,78.32
+2025-02-17,Lotion,Personal Care,6,7.89,47.33
+2025-02-17,Chips,Food,4,2.64,10.55
+2025-02-17,Soda,Food,7,7.78,54.45
+2025-02-17,Cereal,Food,10,3.44,34.37
+2025-02-17,Milk,Food,14,5.74,80.35
+2025-02-17,Bread,Food,1,1.23,1.23
+2025-02-17,Candy,Food,18,8.8,158.45
+2025-02-18,Shampoo,Personal Care,8,1.24,9.95
+2025-02-18,Toothpaste,Personal Care,3,3.08,9.24
+2025-02-18,Soap,Personal Care,8,1.94,15.5
+2025-02-18,Lotion,Personal Care,15,6.12,91.87
+2025-02-18,Chips,Food,19,6.87,130.62
+2025-02-18,Soda,Food,15,7.49,112.31
+2025-02-18,Cereal,Food,3,3.19,9.57
+2025-02-18,Milk,Food,14,6.43,90.0
+2025-02-18,Bread,Food,14,8.47,118.61
+2025-02-18,Candy,Food,4,9.5,38.0
+2025-02-19,Shampoo,Personal Care,14,3.64,50.94
+2025-02-19,Toothpaste,Personal Care,16,1.78,28.52
+2025-02-19,Soap,Personal Care,10,1.77,17.7
+2025-02-19,Lotion,Personal Care,19,2.1,39.99
+2025-02-19,Chips,Food,19,6.25,118.7
+2025-02-19,Soda,Food,18,9.03,162.61
+2025-02-19,Cereal,Food,15,6.62,99.34
+2025-02-19,Milk,Food,11,3.33,36.68
+2025-02-19,Bread,Food,2,4.27,8.54
+2025-02-19,Candy,Food,12,8.48,101.71
+2025-02-20,Shampoo,Personal Care,5,4.68,23.42
+2025-02-20,Toothpaste,Personal Care,9,4.93,44.33
+2025-02-20,Soap,Personal Care,12,2.98,35.71
+2025-02-20,Lotion,Personal Care,12,2.26,27.13
+2025-02-20,Chips,Food,10,6.09,60.92
+2025-02-20,Soda,Food,14,5.24,73.35
+2025-02-20,Cereal,Food,17,5.36,91.17
+2025-02-20,Milk,Food,17,3.42,58.11
+2025-02-20,Bread,Food,8,7.29,58.32
+2025-02-20,Candy,Food,7,2.96,20.74
+2025-02-21,Shampoo,Personal Care,11,4.8,52.75
+2025-02-21,Toothpaste,Personal Care,13,7.22,93.87
+2025-02-21,Soap,Personal Care,5,1.17,5.83
+2025-02-21,Lotion,Personal Care,18,5.77,103.81
+2025-02-21,Chips,Food,10,6.19,61.89
+2025-02-21,Soda,Food,6,1.6,9.63
+2025-02-21,Cereal,Food,5,6.86,34.31
+2025-02-21,Milk,Food,12,2.86,34.29
+2025-02-21,Bread,Food,10,2.26,22.6
+2025-02-21,Candy,Food,6,7.59,45.54
+2025-02-22,Shampoo,Personal Care,2,6.4,12.81
+2025-02-22,Toothpaste,Personal Care,7,6.16,43.12
+2025-02-22,Soap,Personal Care,17,4.77,81.07
+2025-02-22,Lotion,Personal Care,14,1.42,19.92
+2025-02-22,Chips,Food,11,2.66,29.25
+2025-02-22,Soda,Food,4,7.94,31.76
+2025-02-22,Cereal,Food,11,3.6,39.58
+2025-02-22,Milk,Food,4,7.47,29.89
+2025-02-22,Bread,Food,7,6.49,45.46
+2025-02-22,Candy,Food,2,4.57,9.14
+2025-02-23,Shampoo,Personal Care,5,5.35,26.77
+2025-02-23,Toothpaste,Personal Care,4,5.86,23.43
+2025-02-23,Soap,Personal Care,19,6.36,120.76
+2025-02-23,Lotion,Personal Care,11,8.62,94.79
+2025-02-23,Chips,Food,13,2.39,31.1
+2025-02-23,Soda,Food,9,7.94,71.44
+2025-02-23,Cereal,Food,9,1.68,15.09
+2025-02-23,Milk,Food,17,4.72,80.16
+2025-02-23,Bread,Food,11,6.38,70.23
+2025-02-23,Candy,Food,7,1.68,11.78
+2025-02-24,Shampoo,Personal Care,18,8.19,147.51
+2025-02-24,Toothpaste,Personal Care,12,9.71,116.51
+2025-02-24,Soap,Personal Care,6,6.31,37.87
+2025-02-24,Lotion,Personal Care,19,3.83,72.8
+2025-02-24,Chips,Food,17,2.23,37.93
+2025-02-24,Soda,Food,10,7.22,72.15
+2025-02-24,Cereal,Food,17,2.67,45.33
+2025-02-24,Milk,Food,16,8.86,141.7
+2025-02-24,Bread,Food,8,6.75,54.0
+2025-02-24,Candy,Food,17,6.93,117.79
+2025-02-25,Shampoo,Personal Care,16,8.64,138.28
+2025-02-25,Toothpaste,Personal Care,18,5.4,97.29
+2025-02-25,Soap,Personal Care,15,7.24,108.58
+2025-02-25,Lotion,Personal Care,9,9.5,85.47
+2025-02-25,Chips,Food,15,1.4,20.96
+2025-02-25,Soda,Food,16,9.33,149.24
+2025-02-25,Cereal,Food,7,1.31,9.14
+2025-02-25,Milk,Food,7,3.68,25.73
+2025-02-25,Bread,Food,16,2.04,32.6
+2025-02-25,Candy,Food,18,7.71,138.7
+2025-02-26,Shampoo,Personal Care,7,5.1,35.67
+2025-02-26,Toothpaste,Personal Care,10,6.8,68.01
+2025-02-26,Soap,Personal Care,14,6.37,89.13
+2025-02-26,Lotion,Personal Care,3,6.05,18.14
+2025-02-26,Chips,Food,13,1.69,22.0
+2025-02-26,Soda,Food,5,5.77,28.86
+2025-02-26,Cereal,Food,12,6.15,73.82
+2025-02-26,Milk,Food,17,5.85,99.38
+2025-02-26,Bread,Food,13,6.63,86.23
+2025-02-26,Candy,Food,16,4.84,77.46
+2025-02-27,Shampoo,Personal Care,12,3.1,37.16
+2025-02-27,Toothpaste,Personal Care,3,8.83,26.49
+2025-02-27,Soap,Personal Care,13,5.76,74.89
+2025-02-27,Lotion,Personal Care,3,1.63,4.89
+2025-02-27,Chips,Food,14,4.16,58.19
+2025-02-27,Soda,Food,17,4.62,78.5
+2025-02-27,Cereal,Food,12,6.65,79.77
+2025-02-27,Milk,Food,12,9.86,118.28
+2025-02-27,Bread,Food,10,1.83,18.25
+2025-02-27,Candy,Food,7,5.7,39.92
+2025-02-28,Shampoo,Personal Care,1,3.15,3.15
+2025-02-28,Toothpaste,Personal Care,3,5.21,15.62
+2025-02-28,Soap,Personal Care,18,3.67,66.0
+2025-02-28,Lotion,Personal Care,5,1.38,6.89
+2025-02-28,Chips,Food,1,9.19,9.19
+2025-02-28,Soda,Food,15,4.85,72.75
+2025-02-28,Cereal,Food,17,4.52,76.92
+2025-02-28,Milk,Food,4,2.96,11.86
+2025-02-28,Bread,Food,5,8.08,40.39
+2025-02-28,Candy,Food,11,6.3,69.27
+2025-03-01,Shampoo,Personal Care,7,8.91,62.38
+2025-03-01,Toothpaste,Personal Care,14,6.41,89.7
+2025-03-01,Soap,Personal Care,13,9.9,128.73
+2025-03-01,Lotion,Personal Care,7,9.92,69.44
+2025-03-01,Chips,Food,8,9.48,75.88
+2025-03-01,Soda,Food,19,5.61,106.67
+2025-03-01,Cereal,Food,10,1.42,14.23
+2025-03-01,Milk,Food,9,2.68,24.1
+2025-03-01,Bread,Food,3,8.44,25.31
+2025-03-01,Candy,Food,5,1.52,7.6
+2025-03-02,Shampoo,Personal Care,15,2.95,44.2
+2025-03-02,Toothpaste,Personal Care,9,9.35,84.15
+2025-03-02,Soap,Personal Care,17,2.57,43.61
+2025-03-02,Lotion,Personal Care,10,5.64,56.37
+2025-03-02,Chips,Food,18,7.26,130.76
+2025-03-02,Soda,Food,3,8.34,25.03
+2025-03-02,Cereal,Food,6,6.61,39.64
+2025-03-02,Milk,Food,15,1.31,19.71
+2025-03-02,Bread,Food,4,6.22,24.88
+2025-03-02,Candy,Food,2,5.12,10.23
+2025-03-03,Shampoo,Personal Care,3,3.46,10.37
+2025-03-03,Toothpaste,Personal Care,9,1.4,12.59
+2025-03-03,Soap,Personal Care,2,8.76,17.52
+2025-03-03,Lotion,Personal Care,9,3.96,35.65
+2025-03-03,Chips,Food,5,7.62,38.08
+2025-03-03,Soda,Food,2,4.68,9.35
+2025-03-03,Cereal,Food,15,1.05,15.69
+2025-03-03,Milk,Food,5,1.44,7.2
+2025-03-03,Bread,Food,18,1.73,31.13
+2025-03-03,Candy,Food,16,7.15,114.39
+2025-03-04,Shampoo,Personal Care,5,9.92,49.62
+2025-03-04,Toothpaste,Personal Care,18,5.46,98.21
+2025-03-04,Soap,Personal Care,19,8.42,160.02
+2025-03-04,Lotion,Personal Care,8,7.1,56.82
+2025-03-04,Chips,Food,13,3.4,44.24
+2025-03-04,Soda,Food,6,5.69,34.15
+2025-03-04,Cereal,Food,16,6.93,110.82
+2025-03-04,Milk,Food,1,2.42,2.42
+2025-03-04,Bread,Food,16,7.38,118.0
+2025-03-04,Candy,Food,11,3.15,34.63
+2025-03-05,Shampoo,Personal Care,10,1.95,19.53
+2025-03-05,Toothpaste,Personal Care,6,2.7,16.22
+2025-03-05,Soap,Personal Care,5,8.93,44.64
+2025-03-05,Lotion,Personal Care,19,8.91,169.32
+2025-03-05,Chips,Food,10,2.16,21.6
+2025-03-05,Soda,Food,11,3.06,33.63
+2025-03-05,Cereal,Food,7,2.45,17.13
+2025-03-05,Milk,Food,4,6.01,24.02
+2025-03-05,Bread,Food,13,5.57,72.37
+2025-03-05,Candy,Food,7,2.74,19.17
+2025-03-06,Shampoo,Personal Care,13,6.55,85.18
+2025-03-06,Toothpaste,Personal Care,17,6.04,102.66
+2025-03-06,Soap,Personal Care,8,3.34,26.71
+2025-03-06,Lotion,Personal Care,13,8.02,104.24
+2025-03-06,Chips,Food,6,3.55,21.3
+2025-03-06,Soda,Food,7,5.87,41.1
+2025-03-06,Cereal,Food,2,4.08,8.15
+2025-03-06,Milk,Food,15,9.39,140.82
+2025-03-06,Bread,Food,4,2.56,10.26
+2025-03-06,Candy,Food,4,1.61,6.44
+2025-03-07,Shampoo,Personal Care,17,7.94,134.96
+2025-03-07,Toothpaste,Personal Care,17,6.24,106.07
+2025-03-07,Soap,Personal Care,1,1.52,1.52
+2025-03-07,Lotion,Personal Care,18,8.84,159.19
+2025-03-07,Chips,Food,15,9.72,145.8
+2025-03-07,Soda,Food,4,6.83,27.31
+2025-03-07,Cereal,Food,12,1.22,14.66
+2025-03-07,Milk,Food,11,8.39,92.33
+2025-03-07,Bread,Food,15,5.4,80.97
+2025-03-07,Candy,Food,19,3.27,62.18
+2025-03-08,Shampoo,Personal Care,2,3.46,6.93
+2025-03-08,Toothpaste,Personal Care,4,4.84,19.34
+2025-03-08,Soap,Personal Care,13,8.69,112.94
+2025-03-08,Lotion,Personal Care,15,8.15,122.3
+2025-03-08,Chips,Food,11,2.99,32.86
+2025-03-08,Soda,Food,2,7.96,15.91
+2025-03-08,Cereal,Food,11,3.46,38.05
+2025-03-08,Milk,Food,17,9.67,164.38
+2025-03-08,Bread,Food,15,4.78,71.66
+2025-03-08,Candy,Food,6,7.84,47.05
+2025-03-09,Shampoo,Personal Care,5,9.86,49.28
+2025-03-09,Toothpaste,Personal Care,1,3.89,3.89
+2025-03-09,Soap,Personal Care,6,3.07,18.42
+2025-03-09,Lotion,Personal Care,3,1.28,3.84
+2025-03-09,Chips,Food,12,6.06,72.78
+2025-03-09,Soda,Food,12,5.26,63.11
+2025-03-09,Cereal,Food,8,2.43,19.47
+2025-03-09,Milk,Food,17,1.82,30.95
+2025-03-09,Bread,Food,8,7.94,63.51
+2025-03-09,Candy,Food,14,5.77,80.82
+2025-03-10,Shampoo,Personal Care,7,6.64,46.45
+2025-03-10,Toothpaste,Personal Care,12,1.29,15.51
+2025-03-10,Soap,Personal Care,3,2.67,8.01
+2025-03-10,Lotion,Personal Care,15,5.33,80.01
+2025-03-10,Chips,Food,14,6.38,89.39
+2025-03-10,Soda,Food,12,3.23,38.73
+2025-03-10,Cereal,Food,9,2.8,25.24
+2025-03-10,Milk,Food,2,8.18,16.36
+2025-03-10,Bread,Food,11,9.86,108.45
+2025-03-10,Candy,Food,17,1.1,18.78
+2025-03-11,Shampoo,Personal Care,18,7.12,128.23
+2025-03-11,Toothpaste,Personal Care,18,5.32,95.75
+2025-03-11,Soap,Personal Care,6,3.62,21.75
+2025-03-11,Lotion,Personal Care,13,7.81,101.58
+2025-03-11,Chips,Food,6,9.17,55.02
+2025-03-11,Soda,Food,11,5.32,58.57
+2025-03-11,Cereal,Food,9,3.18,28.61
+2025-03-11,Milk,Food,14,2.28,31.95
+2025-03-11,Bread,Food,16,5.34,85.46
+2025-03-11,Candy,Food,1,6.04,6.04
+2025-03-12,Shampoo,Personal Care,18,3.94,70.89
+2025-03-12,Toothpaste,Personal Care,2,5.81,11.62
+2025-03-12,Soap,Personal Care,9,4.16,37.4
+2025-03-12,Lotion,Personal Care,1,8.42,8.42
+2025-03-12,Chips,Food,7,2.19,15.36
+2025-03-12,Soda,Food,7,2.81,19.65
+2025-03-12,Cereal,Food,18,8.39,151.07
+2025-03-12,Milk,Food,10,2.51,25.07
+2025-03-12,Bread,Food,17,9.56,162.59
+2025-03-12,Candy,Food,3,9.07,27.2
+2025-03-13,Shampoo,Personal Care,9,9.43,84.83
+2025-03-13,Toothpaste,Personal Care,7,6.52,45.62
+2025-03-13,Soap,Personal Care,9,7.38,66.43
+2025-03-13,Lotion,Personal Care,8,9.53,76.21
+2025-03-13,Chips,Food,15,8.33,125.0
+2025-03-13,Soda,Food,7,6.95,48.63
+2025-03-13,Cereal,Food,16,5.93,94.85
+2025-03-13,Milk,Food,3,1.37,4.1
+2025-03-13,Bread,Food,10,4.95,49.47
+2025-03-13,Candy,Food,18,1.54,27.78
+2025-03-14,Shampoo,Personal Care,12,2.44,29.23
+2025-03-14,Toothpaste,Personal Care,13,6.54,85.04
+2025-03-14,Soap,Personal Care,19,9.78,185.87
+2025-03-14,Lotion,Personal Care,4,7.7,30.79
+2025-03-14,Chips,Food,19,2.46,46.65
+2025-03-14,Soda,Food,6,7.47,44.84
+2025-03-14,Cereal,Food,5,9.97,49.84
+2025-03-14,Milk,Food,9,5.44,48.96
+2025-03-14,Bread,Food,10,4.63,46.29
+2025-03-14,Candy,Food,15,3.32,49.79
+2025-03-15,Shampoo,Personal Care,12,2.57,30.81
+2025-03-15,Toothpaste,Personal Care,5,4.11,20.57
+2025-03-15,Soap,Personal Care,12,7.91,94.91
+2025-03-15,Lotion,Personal Care,18,8.8,158.46
+2025-03-15,Chips,Food,9,4.95,44.53
+2025-03-15,Soda,Food,2,5.38,10.76
+2025-03-15,Cereal,Food,2,6.38,12.76
+2025-03-15,Milk,Food,4,4.8,19.18
+2025-03-15,Bread,Food,10,9.93,99.29
+2025-03-15,Candy,Food,12,4.45,53.46
+2025-03-16,Shampoo,Personal Care,18,6.68,120.31
+2025-03-16,Toothpaste,Personal Care,15,3.12,46.83
+2025-03-16,Soap,Personal Care,8,4.65,37.18
+2025-03-16,Lotion,Personal Care,10,3.14,31.38
+2025-03-16,Chips,Food,14,5.61,78.59
+2025-03-16,Soda,Food,5,8.69,43.45
+2025-03-16,Cereal,Food,13,4.93,64.15
+2025-03-16,Milk,Food,15,6.34,95.04
+2025-03-16,Bread,Food,7,4.23,29.63
+2025-03-16,Candy,Food,2,1.86,3.71
+2025-03-17,Shampoo,Personal Care,17,4.52,76.84
+2025-03-17,Toothpaste,Personal Care,2,8.72,17.44
+2025-03-17,Soap,Personal Care,5,3.93,19.63
+2025-03-17,Lotion,Personal Care,8,6.39,51.11
+2025-03-17,Chips,Food,4,9.73,38.91
+2025-03-17,Soda,Food,15,3.11,46.68
+2025-03-17,Cereal,Food,10,1.66,16.61
+2025-03-17,Milk,Food,14,3.98,55.69
+2025-03-17,Bread,Food,10,7.02,70.25
+2025-03-17,Candy,Food,9,4.88,43.9
+2025-03-18,Shampoo,Personal Care,8,6.55,52.43
+2025-03-18,Toothpaste,Personal Care,1,3.27,3.27
+2025-03-18,Soap,Personal Care,11,7.63,83.9
+2025-03-18,Lotion,Personal Care,5,5.8,29.01
+2025-03-18,Chips,Food,17,8.6,146.16
+2025-03-18,Soda,Food,12,5.02,60.21
+2025-03-18,Cereal,Food,15,8.81,132.22
+2025-03-18,Milk,Food,12,5.86,70.31
+2025-03-18,Bread,Food,18,9.88,177.84
+2025-03-18,Candy,Food,9,5.78,52.02
+2025-03-19,Shampoo,Personal Care,1,2.1,2.1
+2025-03-19,Toothpaste,Personal Care,6,2.62,15.72
+2025-03-19,Soap,Personal Care,5,1.93,9.65
+2025-03-19,Lotion,Personal Care,19,1.37,26.11
+2025-03-19,Chips,Food,10,4.58,45.76
+2025-03-19,Soda,Food,18,9.69,174.35
+2025-03-19,Cereal,Food,11,1.16,12.72
+2025-03-19,Milk,Food,18,9.76,175.64
+2025-03-19,Bread,Food,7,5.09,35.65
+2025-03-19,Candy,Food,15,5.7,85.43
+2025-03-20,Shampoo,Personal Care,12,5.79,69.48
+2025-03-20,Toothpaste,Personal Care,13,2.29,29.79
+2025-03-20,Soap,Personal Care,18,2.82,50.7
+2025-03-20,Lotion,Personal Care,8,9.73,77.83
+2025-03-20,Chips,Food,1,7.58,7.58
+2025-03-20,Soda,Food,6,8.81,52.88
+2025-03-20,Cereal,Food,15,7.23,108.5
+2025-03-20,Milk,Food,11,7.15,78.64
+2025-03-20,Bread,Food,18,3.2,57.55
+2025-03-20,Candy,Food,8,8.78,70.25
+2025-03-21,Shampoo,Personal Care,17,1.27,21.65
+2025-03-21,Toothpaste,Personal Care,8,8.16,65.28
+2025-03-21,Soap,Personal Care,4,7.09,28.35
+2025-03-21,Lotion,Personal Care,19,9.47,179.89
+2025-03-21,Chips,Food,14,4.54,63.63
+2025-03-21,Soda,Food,5,6.19,30.97
+2025-03-21,Cereal,Food,2,9.99,19.99
+2025-03-21,Milk,Food,6,3.86,23.18
+2025-03-21,Bread,Food,1,4.66,4.66
+2025-03-21,Candy,Food,16,7.77,124.35
+2025-03-22,Shampoo,Personal Care,13,3.6,46.78
+2025-03-22,Toothpaste,Personal Care,11,8.91,97.97
+2025-03-22,Soap,Personal Care,6,3.94,23.66
+2025-03-22,Lotion,Personal Care,6,4.94,29.66
+2025-03-22,Chips,Food,2,7.86,15.72
+2025-03-22,Soda,Food,9,3.85,34.69
+2025-03-22,Cereal,Food,13,8.36,108.69
+2025-03-22,Milk,Food,7,1.05,7.36
+2025-03-22,Bread,Food,15,6.67,100.08
+2025-03-22,Candy,Food,7,6.07,42.5
+2025-03-23,Shampoo,Personal Care,19,4.5,85.44
+2025-03-23,Toothpaste,Personal Care,1,3.14,3.14
+2025-03-23,Soap,Personal Care,17,5.0,85.0
+2025-03-23,Lotion,Personal Care,6,1.66,9.95
+2025-03-23,Chips,Food,3,2.52,7.55
+2025-03-23,Soda,Food,14,6.58,92.06
+2025-03-23,Cereal,Food,14,5.5,77.06
+2025-03-23,Milk,Food,8,5.67,45.37
+2025-03-23,Bread,Food,6,9.23,55.37
+2025-03-23,Candy,Food,12,2.34,28.09
+2025-03-24,Shampoo,Personal Care,16,6.22,99.54
+2025-03-24,Toothpaste,Personal Care,12,5.29,63.48
+2025-03-24,Soap,Personal Care,11,7.88,86.72
+2025-03-24,Lotion,Personal Care,6,7.72,46.33
+2025-03-24,Chips,Food,12,9.6,115.2
+2025-03-24,Soda,Food,13,8.4,109.22
+2025-03-24,Cereal,Food,11,1.07,11.75
+2025-03-24,Milk,Food,15,1.64,24.62
+2025-03-24,Bread,Food,15,3.19,47.87
+2025-03-24,Candy,Food,11,4.42,48.63
+2025-03-25,Shampoo,Personal Care,4,9.41,37.64
+2025-03-25,Toothpaste,Personal Care,19,1.91,36.34
+2025-03-25,Soap,Personal Care,4,3.31,13.24
+2025-03-25,Lotion,Personal Care,14,3.77,52.72
+2025-03-25,Chips,Food,15,5.79,86.86
+2025-03-25,Soda,Food,8,3.8,30.41
+2025-03-25,Cereal,Food,4,7.46,29.83
+2025-03-25,Milk,Food,2,3.45,6.91
+2025-03-25,Bread,Food,4,8.41,33.63
+2025-03-25,Candy,Food,11,2.11,23.2
+2025-03-26,Shampoo,Personal Care,12,2.63,31.6
+2025-03-26,Toothpaste,Personal Care,13,2.66,34.6
+2025-03-26,Soap,Personal Care,17,6.11,103.8
+2025-03-26,Lotion,Personal Care,10,9.26,92.6
+2025-03-26,Chips,Food,4,1.78,7.13
+2025-03-26,Soda,Food,1,4.36,4.36
+2025-03-26,Cereal,Food,13,6.7,87.08
+2025-03-26,Milk,Food,13,6.41,83.39
+2025-03-26,Bread,Food,9,8.14,73.29
+2025-03-26,Candy,Food,15,6.5,97.48
+2025-03-27,Shampoo,Personal Care,10,9.1,91.0
+2025-03-27,Toothpaste,Personal Care,16,6.01,96.16
+2025-03-27,Soap,Personal Care,5,3.72,18.59
+2025-03-27,Lotion,Personal Care,19,8.66,164.55
+2025-03-27,Chips,Food,7,7.01,49.06
+2025-03-27,Soda,Food,18,7.9,142.2
+2025-03-27,Cereal,Food,10,5.07,50.66
+2025-03-27,Milk,Food,18,2.38,42.78
+2025-03-27,Bread,Food,17,7.63,129.74
+2025-03-27,Candy,Food,2,5.26,10.51
+2025-03-28,Shampoo,Personal Care,17,2.61,44.3
+2025-03-28,Toothpaste,Personal Care,5,6.78,33.89
+2025-03-28,Soap,Personal Care,7,5.92,41.44
+2025-03-28,Lotion,Personal Care,10,3.31,33.12
+2025-03-28,Chips,Food,13,6.35,82.55
+2025-03-28,Soda,Food,2,3.47,6.94
+2025-03-28,Cereal,Food,7,7.26,50.79
+2025-03-28,Milk,Food,3,4.98,14.95
+2025-03-28,Bread,Food,7,7.52,52.64
+2025-03-28,Candy,Food,11,9.92,109.13
+2025-03-29,Shampoo,Personal Care,14,1.94,27.12
+2025-03-29,Toothpaste,Personal Care,6,6.21,37.23
+2025-03-29,Soap,Personal Care,7,7.95,55.68
+2025-03-29,Lotion,Personal Care,4,1.77,7.08
+2025-03-29,Chips,Food,1,6.36,6.36
+2025-03-29,Soda,Food,9,3.91,35.19
+2025-03-29,Cereal,Food,6,4.19,25.17
+2025-03-29,Milk,Food,4,4.98,19.93
+2025-03-29,Bread,Food,2,7.03,14.05
+2025-03-29,Candy,Food,12,3.1,37.24
+2025-03-30,Shampoo,Personal Care,8,8.92,71.37
+2025-03-30,Toothpaste,Personal Care,18,7.12,128.18
+2025-03-30,Soap,Personal Care,12,3.92,47.03
+2025-03-30,Lotion,Personal Care,3,2.71,8.14
+2025-03-30,Chips,Food,2,9.95,19.89
+2025-03-30,Soda,Food,2,4.27,8.53
+2025-03-30,Cereal,Food,3,7.58,22.73
+2025-03-30,Milk,Food,8,6.22,49.79
+2025-03-30,Bread,Food,4,9.65,38.62
+2025-03-30,Candy,Food,15,2.81,42.13
+2025-03-31,Shampoo,Personal Care,16,4.69,74.96
+2025-03-31,Toothpaste,Personal Care,16,1.01,16.18
+2025-03-31,Soap,Personal Care,16,6.98,111.75
+2025-03-31,Lotion,Personal Care,3,9.34,28.03
+2025-03-31,Chips,Food,13,2.08,27.02
+2025-03-31,Soda,Food,19,2.37,45.06
+2025-03-31,Cereal,Food,5,7.63,38.17
+2025-03-31,Milk,Food,12,3.19,38.31
+2025-03-31,Bread,Food,6,3.31,19.88
+2025-03-31,Candy,Food,8,7.8,62.38
